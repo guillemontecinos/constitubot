@@ -1,0 +1,23 @@
+{
+  "name": "constitubot",
+  "version": "1.0.0",
+  "description": "Discord bot developed to crawl news on twitter about the Chilean Convención Constitucional",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillemontecinos/constitubot.git"
+  },
+  "author": "Guillermo Montecinos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillemontecinos/constitubot/issues"
+  },
+  "homepage": "https://github.com/guillemontecinos/constitubot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
